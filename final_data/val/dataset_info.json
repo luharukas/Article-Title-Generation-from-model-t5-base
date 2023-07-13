@@ -1,0 +1,41 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_size": 35757461,
+  "description": "",
+  "download_checksums": {
+    "/content/drive/MyDrive/48_Shubham_Luharuka/processed_train.csv": {
+      "num_bytes": 35627227,
+      "checksum": "1d972f4e93d16bd62a48f3a58d2a760f9467caf1ebfc090bf3d27d6415d664f6"
+    }
+  },
+  "download_size": 35627227,
+  "features": {
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "title": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 71384688,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 35757461,
+      "num_examples": 14892,
+      "dataset_name": "csv"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
