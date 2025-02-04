@@ -26,6 +26,7 @@ The project requires the following dependencies:
 - datasets
 - transformers
 
+
 To install the dependencies, you can use the following command: `pip install -r requirements.txt`
 
 To train the model, run the following command:  `python train.py`
